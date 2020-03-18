@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/wodeshoucang"
+            android:icon="@drawable/shoucang"
+            android:title="我的收藏" />
+
+        <item
+            android:id="@+id/jieshao"
+            android:icon="@drawable/jieshao"
+            android:title="修炼体系" />
+        <!--</group>-->
+        <item
+            android:id="@+id/denji"
+            android:icon="@drawable/denji2"
+            android:title="我的等级" />
+
+        <item
+            android:id="@+id/yejianmoshi"
+            android:icon="@drawable/yewan"
+            android:title="夜间模式" />
+        <!--</menu>-->
+        <!--</item>-->
+    </group>
+</menu>

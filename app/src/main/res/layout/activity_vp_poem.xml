@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+
+            app:popupTheme="@style/AppThemeBase">
+
+            <ImageView
+                android:id="@+id/return1"
+                android:layout_width="23dp"
+                android:layout_height="22dp"
+                android:contentDescription="TODO"
+                android:src="@drawable/return1" />
+
+
+            <ImageView
+                android:id="@+id/btn1"
+                android:layout_width="23dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="200dp"
+                android:contentDescription="TODO"
+                android:src="@drawable/shoucan" />
+
+            <ImageView
+                android:id="@+id/landu"
+                android:layout_width="23dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:contentDescription="TODO"
+                android:src="@drawable/langdu" />
+
+            <ImageView
+                android:id="@+id/fenxiang"
+                android:layout_width="23dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:contentDescription="TODO"
+                android:src="@drawable/fenxiang" />
+
+            <ImageView
+                android:id="@+id/btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:contentDescription="TODO"
+                android:src="@drawable/bofang1" />
+
+        </android.support.v7.widget.Toolbar>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize" />
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="#fcfbf7"
+        app:itemIconTint="@color/select"
+        app:itemTextColor="@color/select"
+        app:labelVisibilityMode="labeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:menu="@menu/menu_bottom_nav" />
+
+</android.support.design.widget.CoordinatorLayout>

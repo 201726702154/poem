@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/zhenwen"
+        android:enabled="true"
+        android:icon="@drawable/zhengwen"
+        android:title="正文"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/zhushi"
+        android:enabled="true"
+        android:icon="@drawable/zhushi"
+        android:title="注释"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/yiwen"
+        android:enabled="true"
+        android:icon="@drawable/yiwen"
+        android:title="译文"
+        app:showAsAction="ifRoom" />
+
+    <!--<item-->
+    <!--android:id="@+id/shanxi"-->
+    <!--android:enabled="true"-->
+    <!--android:icon="@drawable/shangxi"-->
+    <!--android:title="赏析"-->
+    <!--app:showAsAction="ifRoom" />-->
+
+    <item
+        android:id="@+id/zuozhe"
+        android:enabled="true"
+        android:icon="@drawable/zuozhe"
+        android:title="作者"
+        app:showAsAction="ifRoom" />
+</menu>

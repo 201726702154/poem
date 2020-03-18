@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="LineColor">#d4d4be</color>
+    <color name="titleColor">#4b4c4a</color>
+    <color name="authorColor">#dbc480</color>
+    <color name="shortcutColor">#a0a19e</color>
+    <color name="shortcutColor1">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="whiteback">#fbfcf7</color>
+    <color name="grey">#545454</color>
+
+
+    <color name="app_color">#878885</color>
+    <!-- 白色 -->
+    <!-- 灰色 -->
+    <color name="gray">#ff777777</color>
+
+</resources>

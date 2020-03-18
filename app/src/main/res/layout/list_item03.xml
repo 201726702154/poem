@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/detail_page_above_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/detail_page_userLogo"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/user_logo"
+            app:civ_border_color="@android:color/white"
+            app:civ_border_width="1dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/page_userName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="沐风"
+                android:textColor="#5B595A"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/page_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="1小时前"
+                android:textColor="#989898"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/page_focus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="1dp"
+            android:padding="3dp"
+            android:src="@drawable/dianzang" />
+
+        <TextView
+            android:id="@+id/dianzang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/page_comments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="10dp"
+        android:ellipsize="end"
+        android:maxLines="10"
+        android:text="水光潋滟晴方好，山色空蒙雨亦奇。\n欲把西湖比西子，淡抹浓妆总相宜。"
+        android:textColor="#6e6e6e"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="16dp"
+        android:background="#e6e6e6" />
+</LinearLayout>
