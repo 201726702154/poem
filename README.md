@@ -7,3 +7,5 @@ G.识别以及测试；H.日间/夜间模式；I.滑动翻页；J.用户还可�
 
 ![诗歌推荐](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWI.9wtiMdM1IgyweFHyLakPZWe5z.SYX8TRrCvmx5NtMS50h0Y2A.aLcFScHuC1kjw!!/mnull&bo=ZwFOAgAAAAADBwg!&rf=photolist&t=5)
 
+![诗歌答题](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWJ4Brgo8GX0cAQf3nmh5.rYq0WVhNdIzg0FORB2BJMB1iw55Fzq*t04MOmfZYKDv7g!!/mnull&bo=WgFUAgAAAAADBy8!&rf=photolist&t=5)
+
