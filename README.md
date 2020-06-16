@@ -9,3 +9,10 @@ G.识别以及测试；H.日间/夜间模式；I.滑动翻页；J.用户还可�
 
 ![诗歌答题](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWJ4Brgo8GX0cAQf3nmh5.rYq0WVhNdIzg0FORB2BJMB1iw55Fzq*t04MOmfZYKDv7g!!/mnull&bo=WgFUAgAAAAADBy8!&rf=photolist&t=5)
 
+![诗歌创作](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWEvFC2BqQWsM4j4FfS*j0I1xHEfR2seHHKKMhlXlkjaHQhJ1DsoKQGOIX4EUZ2Sg1g!!/mnull&bo=dAFQAgAAAAADBwU!&rf=photolist&t=5)
+
+![诗歌搜索](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWFytojIBFbZZdLvI6A65f1.k8I6F.kJUas1kxW1unqsh7imGaRSRKrB1gtEdtDUYkg!!/mnull&bo=bgFxAgAAAAADBz4!&rf=photolist&t=5)
+
+![诗歌分类](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWOzuR76PkL388ybrJHqMU5TU8IQ5Sbu2rrFWyr0L2bkcyt58PTWoviJhxJj1PtXeoQ!!/mnull&bo=bgFxAgAAAAADBz4!&rf=photolist&t=5)
+
+![诗歌浏览](https://m.qpic.cn/psc?/V11hQPFQ19kGUR/MoK.EY8GiNN2Kt4U8x1aWFvj85U4pq0PH9WJyopLhkYFZ6LgKivr2jM38G17eFpnrQiKqps63LR10a6q.X8uJg!!/mnull&bo=bgFxAgAAAAADBz4!&rf=photolist&t=5)
