@@ -5,5 +5,5 @@
 A.每日推荐；B.诗词闯关；C.才思创作；D.搜索；E.分类；F.语音播放、
 G.识别以及测试；H.日间/夜间模式；I.滑动翻页；J.用户还可以对诗歌点赞、收藏和分享等。
 
-![666](https://dss0.bdstatic.com/6Ox1bjeh1BF3odCf/it/u=1156732675,2527576840&fm=85&app=92&f=GIF?w=121&h=75&s=E3B70B647E94DE13CF18F4D40300C0A9)
+![诗歌推荐](https://wx3.sinaimg.cn/mw690/006e2AYKgy1gfu42q0tzcj309z0geq61.jpg)
 
